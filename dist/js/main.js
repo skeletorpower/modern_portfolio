@@ -31,3 +31,9 @@ function toggleMenu(){
         showMenu = false;
     }
 }
+
+const notGit = document.querySelector('.not-git');
+
+function notOnGit(){
+    notGit.addEventListener('click', alert('This project is not on my github :S'))
+}

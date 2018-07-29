@@ -168,6 +168,8 @@ main {
     border: #eece1a 3px solid; }
   .about-info .bio {
     grid-area: bio; }
+    .about-info .bio span {
+      color: #eece1a; }
   .about-info .job-1 {
     grid-area: job1; }
   .about-info .job-2 {

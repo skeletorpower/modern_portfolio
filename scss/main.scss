@@ -92,6 +92,10 @@ main{
     
     .bio{
         grid-area: bio;
+
+        span{
+            color: $secondary-color;
+        }
     }
     
     .job-1{
