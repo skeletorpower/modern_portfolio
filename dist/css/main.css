@@ -278,7 +278,7 @@ main {
     padding: 3rem 0;
     text-align: center; }
     main#home h1 {
-      font-size: 5rem; }
+      font-size: 4rem; }
   .projects {
     grid-template-columns: 1fr; }
   main#about {
